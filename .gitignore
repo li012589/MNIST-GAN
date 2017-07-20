@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+TF_SAVE_DIR/*
+!TF_SAVE_DIR/placeholder
+PIC_SAVE/*
+!PIC_SAVE/placeholder
+summary/*
+!summary/placeholder
